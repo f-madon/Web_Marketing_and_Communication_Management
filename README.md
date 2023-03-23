@@ -62,6 +62,7 @@ You can find our presentation in the <a href="https://github.com/TStrada/Web-mar
 <br>
 
 <p align = "center">
+<a href = "https://www.linkedin.com/in/federica-madon/"><img src="https://github.com/TStrada/TStrada/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
   <a href = "https://github.com/f-madon"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
 
